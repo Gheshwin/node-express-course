@@ -1,0 +1,16 @@
+{
+  "name": "express-app",
+  "version": "0.0.0",
+  "description": "ExpressApp",
+  "main": "app.js",
+  "author": "Gheshwin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "xml2js": "^0.4.19"
+  }
+}
